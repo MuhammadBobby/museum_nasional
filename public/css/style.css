@@ -1,0 +1,29 @@
+#beranda,
+#sejarah,
+#detail {
+  margin-top: 100px;
+}
+
+#koleksi,
+#sejarah,
+#ulasan {
+  padding-top: 100px;
+}
+
+.sejarah:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.sejarah {
+  transition: all 0.5s;
+}
+
+footer ul li {
+  list-style: none;
+}
+
+/* daftar kol */
+#daftar p {
+  font-size: 0.9rem;
+}
